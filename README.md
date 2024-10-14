@@ -1,4 +1,4 @@
-# HackBio Bioinformatics Internship
+# Bioinformatics Internship
 
 ## Overview
 
@@ -9,21 +9,7 @@ This repository contains all the work and projects completed as part of the Hack
 ### Stage 0: Technical Writing
 In this stage, I developed essential technical writing skills, focusing on clear and concise communication of complex scientific concepts. The tasks involved writing a short essay on a key concept in Data Science and Machine Learning as it relates to cancer research.
 
-- **[Stage 0 Folder](./Stage0_Technical_Writing/)**
-  - **[README.md](./Stage0_Technical_Writing/README.md)**: Overview of the technical writing stage.
-  - **[essay.md](./Stage0_Technical_Writing/essay.md)**: Essay on Supervised Learning in Cancer Research.
-  - **images/**: Directory containing images used in the essay.
-
-### Stage 1: Literature Review
-This stage involves conducting a comprehensive literature review on bioinformatics research, specifically focusing on RNA-Seq transcriptome analysis of cancer data.
-
-- **[Stage 1 Folder](./Stage1_Literature_Review/)**
-  - **[README.md](./Stage1_Literature_Review/README.md)**: Overview of the literature review stage.
-  - **[literature_review.md](./Stage1_Literature_Review/literature_review.md)**: Detailed literature review document.
-  - **references/**: Directory containing references and citations used in the literature review.
-  - **[Presentation Video](https://your-video-link-here)**: Summary of the literature review findings.
-
-### Upcoming Stages
+### Stages
 The repository will be updated with subsequent stages of the internship as they are completed. Below is a brief overview of what to expect:
 
 - **Stage 2: Coding and Visualization**
@@ -46,7 +32,7 @@ The repository will be updated with subsequent stages of the internship as they 
 
 ## Author
 
-- **Favour Igwezeke**
+- **Jessica Ovabor**
 
 ## Contact
 
