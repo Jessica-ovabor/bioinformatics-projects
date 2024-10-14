@@ -9,7 +9,7 @@ This repository contains all the work and projects completed as part of the Hack
 ### Stage 0: Technical Writing
 In this stage, I developed essential technical writing skills, focusing on clear and concise communication of complex scientific concepts. The tasks involved writing a short essay on a key concept in Data Science and Machine Learning as it relates to cancer research.
 
-### Stages
+### Subsequent Stages
 The repository will be updated with subsequent stages of the internship as they are completed. Below is a brief overview of what to expect:
 
 - **Stage 2: Coding and Visualization**
