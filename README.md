@@ -36,7 +36,7 @@ The repository will be updated with subsequent stages of the internship as they 
 
 ## Contact
 
-For any questions or collaboration opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/favourokechukwu/) or email at thefavourokechukwu@gmail.com.
+For any questions or collaboration opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jovabor/) or email at ovaborjessica85@gmail.com.
 
 ## License
 
